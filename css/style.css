@@ -102,6 +102,9 @@ h2 {
         display: flex;
         flex-direction: column;
       }
+      .form h2{
+        text-align: center;
+      }
 
       .form label{
         font-family: LatoRegular;
@@ -149,7 +152,7 @@ box-sizing: border-box;
 background-image:
     linear-gradient(45deg,
         rgba(66, 245, 105, 0.75),
-        rgba(8,83,156, 0.75)), url('../images/classroom.jpg');
+        rgba(8,83,156, 0.75)), url('../images/AR_Guides_Instruction.jpg');
     width: 100%;
     height: 680px;
     text-align: center;
